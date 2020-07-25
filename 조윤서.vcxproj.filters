@@ -60,5 +60,11 @@
     <ClCompile Include="m1_3.c">
       <Filter>소스 파일\M1</Filter>
     </ClCompile>
+    <ClCompile Include="m1_4.c">
+      <Filter>소스 파일\M1</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_5.c">
+      <Filter>소스 파일\M1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
