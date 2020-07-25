@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\E2">
       <UniqueIdentifier>{f5b48973-ce74-4cd7-93f1-d4e7904c9ab9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\M1">
+      <UniqueIdentifier>{ff67c014-ce89-40de-a53d-2bb505d61b9d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="E2\e2_1.c">
@@ -50,6 +53,9 @@
     </ClCompile>
     <ClCompile Include="E2\e2_7.c">
       <Filter>소스 파일\E2</Filter>
+    </ClCompile>
+    <ClCompile Include="M1\m1_1.c">
+      <Filter>소스 파일\M1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
