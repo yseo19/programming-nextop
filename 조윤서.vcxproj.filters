@@ -45,10 +45,10 @@
     <ClCompile Include="E2\e2_12.c">
       <Filter>소스 파일\E2</Filter>
     </ClCompile>
-    <ClCompile Include="e2_7.c">
+    <ClCompile Include="E2\e2_8.c">
       <Filter>소스 파일\E2</Filter>
     </ClCompile>
-    <ClCompile Include="e2_8.c">
+    <ClCompile Include="E2\e2_7.c">
       <Filter>소스 파일\E2</Filter>
     </ClCompile>
   </ItemGroup>
