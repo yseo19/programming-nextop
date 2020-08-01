@@ -57,14 +57,37 @@
     <ClCompile Include="M1\m1_1.c">
       <Filter>소스 파일\M1</Filter>
     </ClCompile>
-    <ClCompile Include="m1_3.c">
+    <ClCompile Include="M1\m1_10.c">
       <Filter>소스 파일\M1</Filter>
     </ClCompile>
-    <ClCompile Include="m1_4.c">
+    <ClCompile Include="M1\m1_3.c">
       <Filter>소스 파일\M1</Filter>
     </ClCompile>
-    <ClCompile Include="m1_5.c">
+    <ClCompile Include="M1\m1_4.c">
       <Filter>소스 파일\M1</Filter>
     </ClCompile>
+    <ClCompile Include="M1\m1_5.c">
+      <Filter>소스 파일\M1</Filter>
+    </ClCompile>
+    <ClCompile Include="M1\m1_7.c">
+      <Filter>소스 파일\M1</Filter>
+    </ClCompile>
+    <ClCompile Include="M1\m1_8.c">
+      <Filter>소스 파일\M1</Filter>
+    </ClCompile>
+    <ClCompile Include="M1\m1_9.c">
+      <Filter>소스 파일\M1</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_11.c">
+      <Filter>소스 파일\M1</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_12.c">
+      <Filter>소스 파일\M1</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
   </ItemGroup>
 </Project>
