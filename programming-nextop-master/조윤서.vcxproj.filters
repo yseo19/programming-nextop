@@ -16,11 +16,14 @@
     <Filter Include="소스 파일\E2">
       <UniqueIdentifier>{f5b48973-ce74-4cd7-93f1-d4e7904c9ab9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\E3">
+      <UniqueIdentifier>{acbb7f59-223a-4002-91b3-6655a77d6453}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\E3_C++">
+      <UniqueIdentifier>{947454fb-c135-4e25-8889-65dd2ca56de8}</UniqueIdentifier>
+    </Filter>
     <Filter Include="소스 파일\M1">
       <UniqueIdentifier>{ff67c014-ce89-40de-a53d-2bb505d61b9d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\E3">
-      <UniqueIdentifier>{98b28094-0c56-4034-8095-969531ec9376}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -87,10 +90,13 @@
     <ClCompile Include="m1_12.c">
       <Filter>소스 파일\M1</Filter>
     </ClCompile>
-    <ClCompile Include="e3_1.cpp">
+    <ClCompile Include="E3_C++\e2_자리배정.cpp">
+      <Filter>소스 파일\E3_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="E3\e3_숫자야구.cpp">
       <Filter>소스 파일\E3</Filter>
     </ClCompile>
-    <ClCompile Include="e3_2.cpp">
+    <ClCompile Include="E3\e3_직사각형.cpp">
       <Filter>소스 파일\E3</Filter>
     </ClCompile>
   </ItemGroup>
