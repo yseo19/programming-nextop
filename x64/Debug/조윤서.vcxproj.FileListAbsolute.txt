@@ -1,0 +1,2 @@
+C:\조윤서\programming-nextop-master\x64\Debug\조윤서.exe
+C:\조윤서\programming-nextop-master\x64\Debug\조윤서.pdb

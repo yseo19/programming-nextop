@@ -9,11 +9,11 @@ int main(void) {
 
 	int time;
 
-	scanf("%d", &time_a);
-	scanf("%d", &time_b);
-	scanf("%d", &time_c);
+	scanf("%d",&time_a);
+	scanf("%d",&time_b);
+	scanf("%d",&time_c);
 
-	scanf("%d", &time);
+	scanf("%d",&time);
 
 	time_a = (time_a + time / 3600);
 	time_b = (time_b + time / 60);
