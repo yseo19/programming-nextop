@@ -20,7 +20,7 @@
       <UniqueIdentifier>{ff67c014-ce89-40de-a53d-2bb505d61b9d}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\E3">
-      <UniqueIdentifier>{98b28094-0c56-4034-8095-969531ec9376}</UniqueIdentifier>
+      <UniqueIdentifier>{751c6617-4e96-4b6a-b377-7fcf95544d7b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -87,7 +87,19 @@
     <ClCompile Include="m1_12.c">
       <Filter>소스 파일\M1</Filter>
     </ClCompile>
-    <ClCompile Include="e3_1.cpp">
+    <ClCompile Include="E3\e3_직사각형.cpp">
+      <Filter>소스 파일\E3</Filter>
+    </ClCompile>
+    <ClCompile Include="E3\e3_숫자야구.cpp">
+      <Filter>소스 파일\E3</Filter>
+    </ClCompile>
+    <ClCompile Include="E3\e3_쇠막대기.cpp">
+      <Filter>소스 파일\E3</Filter>
+    </ClCompile>
+    <ClCompile Include="e3_경비원.cpp">
+      <Filter>소스 파일\E3</Filter>
+    </ClCompile>
+    <ClCompile Include="e3_빙고.cpp">
       <Filter>소스 파일\E3</Filter>
     </ClCompile>
   </ItemGroup>
