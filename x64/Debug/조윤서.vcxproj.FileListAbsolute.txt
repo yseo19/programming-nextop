@@ -2,3 +2,5 @@ C:\조윤서\programming-nextop-master\x64\Debug\조윤서.exe
 C:\조윤서\programming-nextop-master\x64\Debug\조윤서.pdb
 C:\Users\admin\Desktop\programming-nextop-master\x64\Debug\조윤서.exe
 C:\Users\admin\Desktop\programming-nextop-master\x64\Debug\조윤서.pdb
+C:\Users\admin\Documents\GitHub\programming-nextop\x64\Debug\조윤서.exe
+C:\Users\admin\Documents\GitHub\programming-nextop\x64\Debug\조윤서.pdb
